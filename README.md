@@ -15,14 +15,10 @@ iOS, Android & Web App that helps you with playing the popular games of QWIXX. I
 </p>
 
 <p float="left" align="middle">
-  <img src="screenshots/screen.gif" width="96%">
-</p>
-
-<p float="left" align="middle">
   <img src="screenshots/qwixxed.gif" width="96%">
 </p>
 
-These App screenshots were made using Screenshots Pro (https://screenshots.pro/) and the videos using Rotato (https://rotato.app/).
+Videos were made using Rotato (https://rotato.app/)
 
 # Features
 
