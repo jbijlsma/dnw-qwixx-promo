@@ -1,6 +1,6 @@
 # QWIXXed
 
-iOS, Android & Web App that helps you with playing the popular games of QWIXX. It keeps track of your score and offers some useful additional features.
+iOS, Android & Web App that helps you with playing the popular game of QWIXX. It keeps track of your score and offers some useful additional features.
 
 <p float="left" align="middle">
   <img src="assets/qwixxed_main.png" width="96%">
