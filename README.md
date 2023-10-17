@@ -3,7 +3,7 @@
 iOS, Android & Web App that helps you with playing the popular game of QWIXX. It keeps track of your score and offers some useful additional features.
 
 Web (GitHub Pages): https://jbijlsma.github.io/dnw-qwixx/  
-Apple App Store: Coming soon  
+Apple App Store: https://apps.apple.com/nl/app/qwixxed/id6469345129?l=en-GB  
 Google Play Store: Coming soon
 
 <p float="left" align="middle">
