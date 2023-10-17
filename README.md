@@ -2,6 +2,10 @@
 
 iOS, Android & Web App that helps you with playing the popular game of QWIXX. It keeps track of your score and offers some useful additional features.
 
+Web (GitHub Pages): https://jbijlsma.github.io/dnw-qwixx/  
+Apple App Store: Coming soon  
+Google Play Store: Coming soon
+
 <p float="left" align="middle">
   <img src="assets/qwixxed_main.png" width="96%">
 </p>
@@ -24,10 +28,10 @@ Videos were made using Rotato (https://rotato.app/)
 
 - Keep track of your QWIXX score with ease. The app only lets you make valid moves and automatically calculates your score
 - Prevent the screen from turning off
-- Turn on / off sound
 - Adjust the screen brightness
+- Turn on / off sound
 - Choose from 3 languages (English, Dutch and Indonesian)
-- The app saves your settings
+- Your app settings are saved for when you next open the app
 
 # Tech Stack
 
