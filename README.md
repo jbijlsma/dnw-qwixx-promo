@@ -3,7 +3,7 @@
 iOS, Android & Web App that helps you with playing the popular game of QWIXX. It keeps track of your score and offers some useful additional features.
 
 Apple App Store: https://apps.apple.com/nl/app/qwixxed/id6469345129?l=en-GB  
-Google Play Store:[ Coming soon](https://play.google.com/store/apps/details?id=com.dotnet_works.qwixxed)
+Google Play Store: https://play.google.com/store/apps/details?id=com.dotnet_works.qwixxed
 
 <p float="left" align="middle">
   <img src="assets/qwixxed_main.png" width="96%">
