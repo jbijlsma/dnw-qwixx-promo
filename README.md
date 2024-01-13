@@ -32,6 +32,10 @@ Videos were made using Rotato (https://rotato.app/)
 - Choose from 3 languages (English, Dutch and Indonesian)
 - Your app settings are saved for when you next open the app
 
+# Privacy Policy
+
+https://jbijlsma.github.io/dnw-qwixx-promo/
+
 # Tech Stack
 
 The iOS / Android App was built using Google Flutter.
